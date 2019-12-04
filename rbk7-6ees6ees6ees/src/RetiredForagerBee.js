@@ -9,3 +9,4 @@ class RetiredForagerBee extends ForagerBee {
     this.treasureChest.push('wining');
   }
 }
+//Ican 
